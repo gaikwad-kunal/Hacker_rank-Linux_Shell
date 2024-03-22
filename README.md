@@ -19,7 +19,7 @@ Domains included:
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |[Let's Echo!](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [Solution.sh](Bash/Let's_Echo.sh)
-| 2 |[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [Solution.sh](Bash/Looping_and_Skipping.sh)
+| 2 |[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [Solution.sh](Bash/looping_and_skipping.sh)
 | 3 |[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [Solution.sh](Bash/A_Personalized_Echo.sh)
 | 4 |[Looping with numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) |  [Solution.sh](Bash/Looping_with_Numbers.sh)
 | 5 |[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) | [Solution.sh](Bash/The_World_of_Numbers.sh)
@@ -27,7 +27,7 @@ Domains included:
 | 7 |[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [Solution.sh](Bash/Getting_started_with_conditionals.sh)
 | 8 |[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [Solution.sh](Bash/More_on_Conditionals.sh)
 | 9 |[Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem) | [Solution.sh](Bash/Arithmetic_Operations.sh)
-| 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution.sh](Bash/Compute_the_average.sh)
+| 10|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem) | [Solution.sh](Bash/Compute_the_Average.sh)
 | 11|[Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem) | [Solution.sh](Bash/Functions_and_Fractals-Recursive_Trees.sh)
 
 ## Text Processing
