@@ -12,7 +12,10 @@ Solutions to all the easy, medium and hard challenges compiled with related lear
 
 Domains included: 
 * [Bash Challenges](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell#bash-challenges)
-
+* [Text Processing](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell#Text-Processing)
+* [Arrays in Bash](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell#Arrays-in-Bash)
+* [Grep Sed Awk](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell#Grep-Sed-Awk)
+   
 
 ## Bash Challenges
 
