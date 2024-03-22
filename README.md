@@ -18,7 +18,7 @@ Domains included:
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 |[Let's Echo!](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [Solution.sh](Challenges/Bash/Let's%20Echo.sh)
+| 1 |[Let's Echo!](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [Solution.sh](Hacker_rank-Linux_Shell/Bash/Let's_Echo.sh)
 | 2 |[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [Solution.sh](Challenges/Bash/Looping%20and%20Skipping.sh)
 | 3 |[A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [Solution.sh](Challenges/Bash/A%20Personalized%20Echo.sh)
 | 4 |[Looping with numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) |  [Solution.sh](Challenges/Bash/Looping%20with%20Numbers.sh)
