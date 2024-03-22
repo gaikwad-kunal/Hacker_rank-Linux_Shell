@@ -11,7 +11,7 @@
 Solutions to all the easy, medium and hard challenges compiled with related learning resources for the Linux Shell Challenges on HackerRank. 
 
 Domains included: 
-* [Bash Challenges](https://github.com/Hacker_rank-Linux_Shell#bash-challenges)
+* [Bash Challenges](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell#bash-challenges)
 
 
 ## Bash Challenges
