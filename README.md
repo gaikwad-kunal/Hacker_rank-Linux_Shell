@@ -12,9 +12,9 @@ Solutions to all the easy, medium and hard challenges compiled with related lear
 
 Domains included: 
 * [Bash Challenges](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#bash-challenges)
-* [Text Processing](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#Text-Processing)
-* [Arrays in Bash](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#Arrays-in-Bash)
-* [Grep Sed Awk](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#Grep-Sed-Awk)
+* [Text Processing](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#text-processing)
+* [Arrays in Bash](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#arrays-in-bash)
+* [Grep Sed Awk](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#grep-sed-awk)
    
 
 ## Bash Challenges
@@ -37,70 +37,70 @@ Domains included:
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%231.sh) |
-|2|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%232.sh) |
-|3|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%233.sh) |
-|4|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%234_.sh) |
-|5|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%235.sh) |
-|6|[Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%236.sh) |
-|7|[Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%237.sh) |
-|8|[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%238.sh) |
-|9|[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem) | [Solution.sh](Challenges/Text_Processing/Cut_%239.sh) |
-|10|[Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | [Solution.sh](Challenges/Text_Processing/Head_of_a_Text_File_%231.sh) |
-|11|[Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | [Solution.sh](Challenges/Text_Processing/Head_of_a_Text_File_%232.sh) |
-|12|[Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem) | [Solution.sh](Challenges/Text_Processing/Middle_of_a_Text_File.sh) |
-|13|[Tail of a Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [Solution.sh](Challenges/Text_Processing/Tail_of_a_Text_File_%231.sh) |
-|14|[Tail of a Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [Solution.sh](Challenges/Text_Processing/Tail_of_a_Text_File_%232.sh) |
-|15|['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [Solution.sh](Challenges/Text_Processing/'Tr'_Command_%231.sh) |
-|16|['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem) | [Solution.sh](Challenges/Text_Processing/'Tr'_Command_%232.sh) |
-|17|['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem) | [Solution.sh](Challenges/Text_Processing/'Tr'_Command_%233.sh) |
-|18|[Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem) | [Solution.sh](Challenges/Text_Processing/Sort_Command_%231.sh) |
-|19|[Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem) | [Solution.sh](Challenges/Text_Processing/Sort_Command_%232.sh) |
-|20|[Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem) | [Solution.sh](Challenges/Text_Processing/Sort_Command_%233.sh) |
-|21|[Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem) | [Solution.sh](Challenges/Text_Processing/Sort_Command_%234.sh) |
-|22|[Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem) | [Solution.sh](Challenges/Text_Processing/Sort_Command_%235.sh) |
-|23|[Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem) | [Solution.sh](Challenges/Text_Processing/Sort_command_%236.sh) |
-|24|[Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem) | [Solution.sh](Challenges/Text_Processing/Sort_command_%237.sh) |
-|25|['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem) | [Solution.sh](Challenges/Text_Processing/'Uniq'_Command_%231.sh) |
-|26|['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem) | [Solution.sh](Challenges/Text_Processing/'Uniq'_Command_%232.sh) |
-|27|['Uniq' Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem)| [Solution.sh](Challenges/Text_Processing/'Uniq'_Command_%233.sh) |
-|28|['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem) | [Solution.sh](Challenges/Text_Processing/'Uniq'_Command_%234.sh) |
-|29|[Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem) | [Solution.sh](Challenges/Text_Processing/Paste_-_1.sh) |
-|30|[Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem) | [Solution.sh](Challenges/Text_Processing/Paste_-_2.sh) |
-|31|[Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem) | [Solution.sh](Challenges/Text_Processing/Paste_-_3.sh) |
-|32|[Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem) | [Solution.sh](Challenges/Text_Processing/Paste_-_4.sh) |
+|1|[Cut #1](https://www.hackerrank.com/text-processing-cut-1/problem) | [Solution.sh](Text_Processing/Cut-1.sh) |
+|2|[Cut #2](https://www.hackerrank.com/text-processing-cut-2/problem) | [Solution.sh](Text_Processing/Cut-2.sh) |
+|3|[Cut #3](https://www.hackerrank.com/text-processing-cut-3/problem) | [Solution.sh](Text_Processing/Cut-3.sh) |
+|4|[Cut #4](https://www.hackerrank.com/text-processing-cut-4/problem) | [Solution.sh](Text_Processing/Cut-4.sh) |
+|5|[Cut #5](https://www.hackerrank.com/text-processing-cut-5/problem) | [Solution.sh](Text_Processing/Cut-5.sh) |
+|6|[Cut #6](https://www.hackerrank.com/text-processing-cut-6/problem) | [Solution.sh](Text_Processing/Cut-6.sh) |
+|7|[Cut #7](https://www.hackerrank.com/text-processing-cut-7/problem) | [Solution.sh](Text_Processing/Cut-7.sh) |
+|8|[Cut #8](https://www.hackerrank.com/text-processing-cut-8/problem) | [Solution.sh](Text_Processing/Cut-8.sh) |
+|9|[Cut #9](https://www.hackerrank.com/text-processing-cut-9/problem) | [Solution.sh](Text_Processing/Cut-9.sh) |
+|10|[Head of a Text File #1](https://www.hackerrank.com/text-processing-head-1/problem) | [Solution.sh](Text_Processing/Head_of_a_Text_File-1.sh) |
+|11|[Head of a Text File #2](https://www.hackerrank.com/text-processing-head-2/problem) | [Solution.sh](Text_Processing/Head_of_a_Text_File-2.sh) |
+|12|[Middle of a Text File](https://www.hackerrank.com/text-processing-in-linux---the-middle-of-a-text-file/problem) | [Solution.sh](Text_Processing/Middle_of_a_Text_File.sh) |
+|13|[Tail of a Text File #1](https://www.hackerrank.com/text-processing-tail-1/problem) | [Solution.sh](Text_Processing/Tail_of_a_Text_File-1.sh) |
+|14|[Tail of a Text File #2](https://www.hackerrank.com/text-processing-tail-2/problem) | [Solution.sh](Text_Processing/Tail_of_a_Text_File-2.sh) |
+|15|['Tr' Command #1](https://www.hackerrank.com/text-processing-tr-1/problem) | [Solution.sh](Text_Processing/'Tr'_Command-1.sh) |
+|16|['Tr' Command #2](https://www.hackerrank.com/text-processing-tr-2/problem) | [Solution.sh](Text_Processing/'Tr'_Command-2.sh) |
+|17|['Tr' Command #3](https://www.hackerrank.com/text-processing-tr-3/problem) | [Solution.sh](Text_Processing/'Tr'_Command-3.sh) |
+|18|[Sort Command #1](https://www.hackerrank.com/text-processing-sort-1/problem) | [Solution.sh](Text_Processing/Sort_Command-1.sh) |
+|19|[Sort Command #2](https://www.hackerrank.com/text-processing-sort-2/problem) | [Solution.sh](Text_Processing/Sort_Command-2.sh) |
+|20|[Sort Command #3](https://www.hackerrank.com/text-processing-sort-3/problem) | [Solution.sh](Text_Processing/Sort_Command-3.sh) |
+|21|[Sort Command #4](https://www.hackerrank.com/text-processing-sort-4/problem) | [Solution.sh](Text_Processing/Sort_Command-4.sh) |
+|22|[Sort Command #5](https://www.hackerrank.com/text-processing-sort-5/problem) | [Solution.sh](Text_Processing/Sort_Command-5.sh) |
+|23|[Sort Command #6](https://www.hackerrank.com/text-processing-sort-6/problem) | [Solution.sh](Text_Processing/Sort_command-6.sh) |
+|24|[Sort Command #7](https://www.hackerrank.com/text-processing-sort-7/problem) | [Solution.sh](Text_Processing/Sort_command-7.sh) |
+|25|['Uniq' Command #1](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-1/problem) | [Solution.sh](Text_Processing/'Uniq'_Command-1.sh) |
+|26|['Uniq' Command #2](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-2/problem) | [Solution.sh](Text_Processing/'Uniq'_Command-2.sh) |
+|27|['Uniq' Command #3](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-3/problem)| [Solution.sh](Text_Processing/'Uniq'_Command-3.sh) |
+|28|['Uniq' Command #4](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-4/problem) | [Solution.sh](Text_Processing/'Uniq'_Command-4.sh) |
+|29|[Paste - 1](https://www.hackerrank.com/paste-1/problem) | [Solution.sh](Text_Processing/Paste-1.sh) |
+|30|[Paste - 2](https://www.hackerrank.com/paste-2/problem) | [Solution.sh](Text_Processing/Paste-_2.sh) |
+|31|[Paste - 3](https://www.hackerrank.com/paste-3/problem) | [Solution.sh](Text_Processing/Paste-3.sh) |
+|32|[Paste - 4](https://www.hackerrank.com/paste-4/problem) | [Solution.sh](Text_Processing/Paste-4.sh) |
 
 
 ## Arrays in Bash
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|[Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Read%20in%20an%20Array.sh) |
-|2|[Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Slice%20an%20Array.sh) |
-|3|[Filter an Array with Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](Challenges/Arrays%20in%20Bash/Filter%20an%20Array%20with%20Patterns.sh) |
-|4|[Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution](Challenges/Arrays%20in%20Bash/Concatenate%20an%20array%20with%20itself.sh) |
-|5|[Display an element of an array](https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Display%20an%20element%20of%20an%20array.sh) |
-|6|[Count the number of elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [Solution](Challenges/Arrays%20in%20Bash/Count%20the%20number%20of%20elements%20in%20an%20Array.sh) |
-|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](Challenges/Arrays%20in%20Bash/Remove%20the%20First%20Capital%20Letter%20from%20Each%20Element.sh) |
-|8|[Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem) | [Solution](Challenges/Arrays%20in%20Bash/Lonely%20Integer%20-%20Bash!.sh) |
+|1|[Read in an Array](https://www.hackerrank.com/bash-tutorials-read-in-an-array/problem) | [Solution](Arrays_in_Bash/Read%20in%20an%20Array.sh) |
+|2|[Slice an Array](https://www.hackerrank.com/bash-tutorials-slice-an-array/problem) | [Solution](Arrays_in_Bash/Slice%20an%20Array.sh) |
+|3|[Filter an Array with Patterns](https://www.hackerrank.com/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](Arrays_in_Bash/Filter%20an%20Array%20with%20Patterns.sh) |
+|4|[Concatenate an array with itself](https://www.hackerrank.com/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution](Arrays_in_Bash/Concatenate%20an%20array%20with%20itself.sh) |
+|5|[Display an element of an array](https://www.hackerrank.com/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution](Arrays_in_Bash/Display%20an%20element%20of%20an%20array.sh) |
+|6|[Count the number of elements in an Array](https://www.hackerrank.com/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [Solution](Arrays_in_Bash/Count%20the%20number%20of%20elements%20in%20an%20Array.sh) |
+|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](Arrays_in_Bash/Remove%20the%20First%20Capital%20Letter%20from%20Each%20Element.sh) |
+|8|[Lonely Integer - Bash!](https://www.hackerrank.com/lonely-integer-2/problem) | [Solution](Arrays_in_Bash/Lonely_Integer-2.sh) |
 
 ## Grep Sed Awk
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Grep'%20%231.sh) |
-|2|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Grep'%20%232.sh) |
-|3|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Grep'%20%233.sh) |
-|4|['Grep' -A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Grep'%20-A.sh) |
-|5|['Grep' -B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Grep'%20-%20B.sh) |
-|6|['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%231.sh) |
-|7|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%232.sh) |
-|8|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%233.sh) |
-|9|['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%234.sh) |
-|10|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Sed'%20command%20%235.sh) |
-|11|['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Awk'%20-%201.sh) |
-|12|['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Awk'%20-%202.sh) |
-|13|['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Awk'%20-%203.sh) |
-|14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](Challenges/Grep%20Sed%20Awk/'Awk'%20-%204.sh) |
+|1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution](Grep_Sed_Awk/Grep-1.sh) |
+|2|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution](Grep_Sed_Awk/Grep%-2.sh) |
+|3|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution](Grep_Sed_Awk/Grep%-3.sh) |
+|4|['Grep' -A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [Solution](Grep_Sed_Awk/Grep-A.sh) |
+|5|['Grep' -B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [Solution](Grep_Sed_Awk/Grep-B.sh) |
+|6|['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [Solution](Grep_Sed_Awk/Sed_command-1.sh) |
+|7|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution](Grep_Sed_Awk/Sed_command-2.sh) |
+|8|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](Grep_Sed_Awk/Sed_command-3.sh) |
+|9|['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](Grep_Sed_Awk/Sed_command-4.sh) |
+|10|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](Grep_Sed_Awk/Sed_command-5.sh) |
+|11|['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem) | [Solution](Grep_Sed_Awk/Awk-1.sh) |
+|12|['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem) | [Solution](Grep_Sed_Awk/Awk-2.sh) |
+|13|['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | [Solution](Grep_Sed_Awk/Awk-3.sh) |
+|14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](Grep_Sed_Awk/Awk-4.sh) |
 
 
