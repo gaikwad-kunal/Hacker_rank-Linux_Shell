@@ -59,8 +59,8 @@ Domains included:
 |20|[Sort Command #3](https://www.hackerrank.com/text-processing-sort-3/problem) | [Solution.sh](Text_Processing/Sort_Command-3.sh) |
 |21|[Sort Command #4](https://www.hackerrank.com/text-processing-sort-4/problem) | [Solution.sh](Text_Processing/Sort_Command-4.sh) |
 |22|[Sort Command #5](https://www.hackerrank.com/text-processing-sort-5/problem) | [Solution.sh](Text_Processing/Sort_Command-5.sh) |
-|23|[Sort Command #6](https://www.hackerrank.com/text-processing-sort-6/problem) | [Solution.sh](Text_Processing/Sort_command-6.sh) |
-|24|[Sort Command #7](https://www.hackerrank.com/text-processing-sort-7/problem) | [Solution.sh](Text_Processing/Sort_command-7.sh) |
+|23|[Sort Command #6](https://www.hackerrank.com/text-processing-sort-6/problem) | [Solution.sh](Text_Processing/Sort_Command-6.sh) |
+|24|[Sort Command #7](https://www.hackerrank.com/text-processing-sort-7/problem) | [Solution.sh](Text_Processing/Sort_Command-7.sh) |
 |25|['Uniq' Command #1](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-1/problem) | [Solution.sh](Text_Processing/'Uniq'_Command-1.sh) |
 |26|['Uniq' Command #2](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-2/problem) | [Solution.sh](Text_Processing/'Uniq'_Command-2.sh) |
 |27|['Uniq' Command #3](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-3/problem)| [Solution.sh](Text_Processing/'Uniq'_Command-3.sh) |
