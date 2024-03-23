@@ -75,13 +75,13 @@ Domains included:
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|[Read in an Array](https://www.hackerrank.com/bash-tutorials-read-in-an-array/problem) | [Solution](Arrays_in_Bash/Read%20in%20an%20Array.sh) |
-|2|[Slice an Array](https://www.hackerrank.com/bash-tutorials-slice-an-array/problem) | [Solution](Arrays_in_Bash/Slice%20an%20Array.sh) |
-|3|[Filter an Array with Patterns](https://www.hackerrank.com/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](Arrays_in_Bash/Filter%20an%20Array%20with%20Patterns.sh) |
-|4|[Concatenate an array with itself](https://www.hackerrank.com/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution](Arrays_in_Bash/Concatenate%20an%20array%20with%20itself.sh) |
-|5|[Display an element of an array](https://www.hackerrank.com/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution](Arrays_in_Bash/Display%20an%20element%20of%20an%20array.sh) |
-|6|[Count the number of elements in an Array](https://www.hackerrank.com/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [Solution](Arrays_in_Bash/Count%20the%20number%20of%20elements%20in%20an%20Array.sh) |
-|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](Arrays_in_Bash/Remove%20the%20First%20Capital%20Letter%20from%20Each%20Element.sh) |
+|1|[Read in an Array](https://www.hackerrank.com/bash-tutorials-read-in-an-array/problem) | [Solution](Arrays_in_Bash/Read_in_an_Array.sh) |
+|2|[Slice an Array](https://www.hackerrank.com/bash-tutorials-slice-an-array/problem) | [Solution](Arrays_in_Bash/Slice_an_Array.sh) |
+|3|[Filter an Array with Patterns](https://www.hackerrank.com/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](Arrays_in_Bash/Filter_an_Array_with_Patterns.sh) |
+|4|[Concatenate an array with itself](https://www.hackerrank.com/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution](Arrays_in_Bash/Concatenate_an_array_with_itself.sh) |
+|5|[Display an element of an array](https://www.hackerrank.com/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution](Arrays_in_Bash/Display_an_element_of_an_array.sh) |
+|6|[Count the number of elements in an Array](https://www.hackerrank.com/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [Solution](Arrays_in_Bash/Count_the_number_of_elements_in_an_Array.sh) |
+|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](Arrays_in_Bash/Remove_the_First_Capital_Letter_from_Each_Element.sh) |
 |8|[Lonely Integer - Bash!](https://www.hackerrank.com/lonely-integer-2/problem) | [Solution](Arrays_in_Bash/Lonely_Integer-2.sh) |
 
 ## Grep Sed Awk
@@ -89,8 +89,8 @@ Domains included:
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
 |1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution](Grep_Sed_Awk/Grep-1.sh) |
-|2|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution](Grep_Sed_Awk/Grep%-2.sh) |
-|3|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution](Grep_Sed_Awk/Grep%-3.sh) |
+|2|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution](Grep_Sed_Awk/Grep-2.sh) |
+|3|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution](Grep_Sed_Awk/Grep-3.sh) |
 |4|['Grep' -A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [Solution](Grep_Sed_Awk/Grep-A.sh) |
 |5|['Grep' -B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [Solution](Grep_Sed_Awk/Grep-B.sh) |
 |6|['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [Solution](Grep_Sed_Awk/Sed_command-1.sh) |
