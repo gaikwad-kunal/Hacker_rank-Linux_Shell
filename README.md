@@ -16,7 +16,6 @@ Domains included:
 * [Arrays in Bash](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#arrays-in-bash)
 * [Grep Sed Awk](https://github.com/gaikwad-kunal/Hacker_rank-Linux_Shell/#grep-sed-awk)
    
-
 ## Bash Challenges
 
 | Number | Challenges | Solutions |
@@ -70,40 +69,40 @@ Domains included:
 |31|[Paste - 3](https://www.hackerrank.com/paste-3/problem) | [Solution.sh](Text_Processing/Paste-3.sh) |
 |32|[Paste - 4](https://www.hackerrank.com/paste-4/problem) | [Solution.sh](Text_Processing/Paste-4.sh) |
 
-
 ## Arrays in Bash
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|[Read in an Array](https://www.hackerrank.com/bash-tutorials-read-in-an-array/problem) | [Solution](Arrays_in_Bash/Read_in_an_Array.sh) |
-|2|[Slice an Array](https://www.hackerrank.com/bash-tutorials-slice-an-array/problem) | [Solution](Arrays_in_Bash/Slice_an_Array.sh) |
-|3|[Filter an Array with Patterns](https://www.hackerrank.com/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](Arrays_in_Bash/Filter_an_Array_with_Patterns.sh) |
-|4|[Concatenate an array with itself](https://www.hackerrank.com/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution](Arrays_in_Bash/Concatenate_an_array_with_itself.sh) |
-|5|[Display an element of an array](https://www.hackerrank.com/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution](Arrays_in_Bash/Display_an_element_of_an_array.sh) |
-|6|[Count the number of elements in an Array](https://www.hackerrank.com/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [Solution](Arrays_in_Bash/Count_the_number_of_elements_in_an_Array.sh) |
-|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution](Arrays_in_Bash/Remove_the_First_Capital_Letter_from_Each_Element.sh) |
-|8|[Lonely Integer - Bash!](https://www.hackerrank.com/lonely-integer-2/problem) | [Solution](Arrays_in_Bash/Lonely_Integer-2.sh) |
+|1|[Read in an Array](https://www.hackerrank.com/bash-tutorials-read-in-an-array/problem) | [Solution.sh](Arrays_in_Bash/Read_in_an_Array.sh) |
+|2|[Slice an Array](https://www.hackerrank.com/bash-tutorials-slice-an-array/problem) | [Solution.sh](Arrays_in_Bash/Slice_an_Array.sh) |
+|3|[Filter an Array with Patterns](https://www.hackerrank.com/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution.sh](Arrays_in_Bash/Filter_an_Array_with_Patterns.sh) |
+|4|[Concatenate an array with itself](https://www.hackerrank.com/bash-tutorials-concatenate-an-array-with-itself/problem) | [Solution.sh](Arrays_in_Bash/Concatenate_an_array_with_itself.sh) |
+|5|[Display an element of an array](https://www.hackerrank.com/bash-tutorials-display-the-third-element-of-an-array/problem) | [Solution.sh](Arrays_in_Bash/Display_an_element_of_an_array.sh) |
+|6|[Count the number of elements in an Array](https://www.hackerrank.com/bash-tutorials-count-the-number-of-elements-in-an-array/problem) | [Solution.sh](Arrays_in_Bash/Count_the_number_of_elements_in_an_Array.sh) |
+|7|[Remove the First Capital Letter from Each Element](https://www.hackerrank.com/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem) | [Solution.sh](Arrays_in_Bash/Remove_the_First_Capital_Letter_from_Each_Element.sh) |
+|8|[Lonely Integer - Bash!](https://www.hackerrank.com/lonely-integer-2/problem) | [Solution.sh](Arrays_in_Bash/Lonely_Integer-2.sh) |
 
 ## Grep Sed Awk
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution](Grep_Sed_Awk/Grep-1.sh) |
-|2|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution](Grep_Sed_Awk/Grep-2.sh) |
-|3|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution](Grep_Sed_Awk/Grep-3.sh) |
-|4|['Grep' -A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [Solution](Grep_Sed_Awk/Grep-A.sh) |
-|5|['Grep' -B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [Solution](Grep_Sed_Awk/Grep-B.sh) |
-|6|['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [Solution](Grep_Sed_Awk/Sed_command-1.sh) |
-|7|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution](Grep_Sed_Awk/Sed_command-2.sh) |
-|8|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution](Grep_Sed_Awk/Sed_command-3.sh) |
-|9|['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution](Grep_Sed_Awk/Sed_command-4.sh) |
-|10|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution](Grep_Sed_Awk/Sed_command-5.sh) |
-|11|['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem) | [Solution](Grep_Sed_Awk/Awk-1.sh) |
-|12|['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem) | [Solution](Grep_Sed_Awk/Awk-2.sh) |
-|13|['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | [Solution](Grep_Sed_Awk/Awk-3.sh) |
-|14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](Grep_Sed_Awk/Awk-4.sh) |
+|1|['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem) | [Solution.sh](Grep_Sed_Awk/Grep-1.sh) |
+|2|['Grep' #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem) | [Solution.sh](Grep_Sed_Awk/Grep-2.sh) |
+|3|['Grep' #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem) | [Solution.sh](Grep_Sed_Awk/Grep-3.sh) |
+|4|['Grep' -A](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem) | [Solution.sh](Grep_Sed_Awk/Grep-A.sh) |
+|5|['Grep' -B](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem) | [Solution.sh](Grep_Sed_Awk/Grep-B.sh) |
+|6|['Sed' command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem) | [Solution.sh](Grep_Sed_Awk/Sed_command-1.sh) |
+|7|['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem) | [Solution.sh](Grep_Sed_Awk/Sed_command-2.sh) |
+|8|['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem) | [Solution.sh](Grep_Sed_Awk/Sed_command-3.sh) |
+|9|['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem) | [Solution.sh](Grep_Sed_Awk/Sed_command-4.sh) |
+|10|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem) | [Solution.sh](Grep_Sed_Awk/Sed_command-5.sh) |
+|11|['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem) | [Solution.sh](Grep_Sed_Awk/Awk-1.sh) |
+|12|['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem) | [Solution.sh](Grep_Sed_Awk/Awk-2.sh) |
+|13|['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem) | [Solution.sh](Grep_Sed_Awk/Awk-3.sh) |
+|14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution.sh](Grep_Sed_Awk/Awk-4.sh) |
 
 ## Reference Materials
+
  * [cut](https://linux.die.net/man/1/cut)
  * [head](https://linux.die.net/man/1/head)
  * [tail](https://linux.die.net/man/1/tail)
