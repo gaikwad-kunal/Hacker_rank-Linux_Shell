@@ -66,7 +66,7 @@ Domains included:
 |27|['Uniq' Command #3](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-3/problem)| [Solution.sh](Text_Processing/'Uniq'_Command-3.sh) |
 |28|['Uniq' Command #4](https://www.hackerrank.com/text-processing-in-linux-the-uniq-command-4/problem) | [Solution.sh](Text_Processing/'Uniq'_Command-4.sh) |
 |29|[Paste - 1](https://www.hackerrank.com/paste-1/problem) | [Solution.sh](Text_Processing/Paste-1.sh) |
-|30|[Paste - 2](https://www.hackerrank.com/paste-2/problem) | [Solution.sh](Text_Processing/Paste-_2.sh) |
+|30|[Paste - 2](https://www.hackerrank.com/paste-2/problem) | [Solution.sh](Text_Processing/Paste-2.sh) |
 |31|[Paste - 3](https://www.hackerrank.com/paste-3/problem) | [Solution.sh](Text_Processing/Paste-3.sh) |
 |32|[Paste - 4](https://www.hackerrank.com/paste-4/problem) | [Solution.sh](Text_Processing/Paste-4.sh) |
 
@@ -104,15 +104,15 @@ Domains included:
 |14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](Grep_Sed_Awk/Awk-4.sh) |
 
 ## Reference Materials
- * [cut] [https://linux.die.net/man/1/cut]
- * [head] [https://linux.die.net/man/1/head]
- * [tail] [https://linux.die.net/man/1/tail]
- * [sort] [https://linux.die.net/man/1/sort]
- * [uniq] [https://linux.die.net/man/1/uniq]
- * [paste] [https://linux.die.net/man/1/paste]
- * [grep] [https://linux.die.net/man/1/grep]
- * [sed] [https://linux.die.net/man/1/sed]
- * [awk] [https://linux.die.net/man/1/awk]
+ * [cut] (https://linux.die.net/man/1/cut)
+ * [head] (https://linux.die.net/man/1/head)
+ * [tail] (https://linux.die.net/man/1/tail)
+ * [sort] (https://linux.die.net/man/1/sort)
+ * [uniq] (https://linux.die.net/man/1/uniq)
+ * [paste] (https://linux.die.net/man/1/paste)
+ * [grep] (https://linux.die.net/man/1/grep)
+ * [sed] (https://linux.die.net/man/1/sed)
+ * [awk] (https://linux.die.net/man/1/awk)
 
 
 
