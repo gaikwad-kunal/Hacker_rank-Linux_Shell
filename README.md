@@ -104,15 +104,15 @@ Domains included:
 |14|['Awk' - 4](https://www.hackerrank.com/challenges/awk-4/problem) | [Solution](Grep_Sed_Awk/Awk-4.sh) |
 
 ## Reference Materials
- * [cut] (https://linux.die.net/man/1/cut)
- * [head] (https://linux.die.net/man/1/head)
- * [tail] (https://linux.die.net/man/1/tail)
- * [sort] (https://linux.die.net/man/1/sort)
- * [uniq] (https://linux.die.net/man/1/uniq)
- * [paste] (https://linux.die.net/man/1/paste)
- * [grep] (https://linux.die.net/man/1/grep)
- * [sed] (https://linux.die.net/man/1/sed)
- * [awk] (https://linux.die.net/man/1/awk)
+ * [cut](https://linux.die.net/man/1/cut)
+ * [head](https://linux.die.net/man/1/head)
+ * [tail](https://linux.die.net/man/1/tail)
+ * [sort](https://linux.die.net/man/1/sort)
+ * [uniq](https://linux.die.net/man/1/uniq)
+ * [paste](https://linux.die.net/man/1/paste)
+ * [grep](https://linux.die.net/man/1/grep)
+ * [sed](https://linux.die.net/man/1/sed)
+ * [awk](https://linux.die.net/man/1/awk)
 
 
 
